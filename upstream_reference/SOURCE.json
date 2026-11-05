@@ -1,0 +1,15 @@
+{
+  "repository": "https://github.com/MrGiovanni/SyntheticTumors",
+  "commit": "3e636f78f2caf9c464c8e65b6a5ebd695ca7b0ac",
+  "sha256": {
+    "LICENSE": "3581c0055b9652dd9e7a8e55755879fde7ab2ea511878ae268fd6fae3546ff81",
+    "TumorGenerated/TumorGenerated.py": "f8ed9ced6074f481ef61bc20a43913d54296853ba1e4422822efb977643707d5",
+    "TumorGenerated/utils.py": "319f3bbd129460ac38ec121631f0021111ccd34c4ec86c7c9c6a72c7aa5ebaad",
+    "datafolds/datafold_read.py": "220302edb24bab828bfd86e83ef7142cc04042b23f0850fabe3fb3276559a096",
+    "datafolds/healthy.json": "957f7752f2e036f7e925969f45c80819fc3962c9740dee0cac6d33af216438aa",
+    "main.py": "4ba4943cb1927510825389755ae4dea6579a8354d0dba1c896d5c3147b4382ff",
+    "monai_trainer.py": "bde7b0ffe494c40d72d03f860a5636eac4c6cb00a29f07b85274ea74b277e69b",
+    "optimizers/lr_scheduler.py": "3f49c029a55cdcd069e6da5537402a07d97834fc45571de21d2dae009040f769",
+    "validation.py": "43921e97641c388b76fa4891a3d41b17e51133d2061ccf4c7259bcb74d1934a9"
+  }
+}

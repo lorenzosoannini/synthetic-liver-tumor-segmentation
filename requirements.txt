@@ -1,0 +1,14 @@
+numpy==1.26.4
+torch==2.6.0
+monai==1.5.0
+lightning==2.5.1
+pytorch-lightning==2.5.1
+scipy==1.13.1
+nibabel==5.3.3
+opencv-python-headless==4.11.0.86
+elasticdeform==0.5.1
+surface-distance==0.1
+tensorboard==2.21.0
+nbformat==5.10.4
+pytest==8.4.2
+ipykernel>=6.29,<7
