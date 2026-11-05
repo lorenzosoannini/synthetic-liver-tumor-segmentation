@@ -16,8 +16,8 @@ The generator selects locations inside the annotated liver and deforms ellipsoid
     <th>Same CT with synthetic lesions</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/lorenzosoannini/NN-SynTumor/main/assets/liver_32.gif" width="380" alt="Axial slices of LiTS case 32 with the liver annotation in green"></td>
-    <td><img src="https://raw.githubusercontent.com/lorenzosoannini/NN-SynTumor/main/assets/result_small.gif" width="380" alt="The same case after the original course-project synthesis, with small synthetic lesions in red"></td>
+    <td><img src="assets/liver_32.gif" width="380" alt="Axial slices of LiTS case 32 with the liver annotation in green"></td>
+    <td><img src="assets/result_small.gif" width="380" alt="The same case after the original course-project synthesis, with small synthetic lesions in red"></td>
   </tr>
 </table>
 
